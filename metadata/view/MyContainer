@@ -1,0 +1,54 @@
+{
+    "type": "Ext.Container",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|initialView": true,
+        "designer|userClassName": "MyContainer"
+    },
+    "designerId": "2a3e43d5-572c-4ef0-9e0b-e109bd1cdca3",
+    "cn": [
+        {
+            "type": "Ext.Label",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "centered": true,
+                "html": "Will this work?"
+            },
+            "designerId": "3f91b766-584d-4066-8c5a-9a50b4778a4a"
+        },
+        {
+            "type": "Ext.Toolbar",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "docked": "top"
+            },
+            "designerId": "cbadcc9d-1504-45a2-9ecd-cefcddc8fae2",
+            "cn": [
+                {
+                    "type": "Ext.Button",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "text": "MyButton"
+                    },
+                    "designerId": "fc742fe6-12d7-49e9-b56b-b96b763aa9cd"
+                }
+            ]
+        }
+    ]
+}

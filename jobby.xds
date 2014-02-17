@@ -1,0 +1,48 @@
+{
+    "name": "jobby",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "4.0.2.67",
+            "frameworkVersion": "2.3.1.410"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "iPhone",
+                "builtIn": true,
+                "height": 480,
+                "width": 320
+            },
+            "viewportOrientation": "portrait"
+        },
+        "urlPrefix": "",
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "LF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true
+    },
+    "xdsVersion": "3.0.2",
+    "xdsBuild": 1375,
+    "schemaVersion": 1,
+    "upgradeVersion": 300000000004,
+    "framework": "touch23",
+    "viewOrderMap": {
+        "view": [
+            "2a3e43d5-572c-4ef0-9e0b-e109bd1cdca3"
+        ],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "b3c15983-98e1-419f-a082-701fd4101a14",
+            "9261ab4c-835b-4700-9b98-2953f0f3ccbb"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}
